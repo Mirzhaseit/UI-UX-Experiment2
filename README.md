@@ -15,9 +15,9 @@ Create a brand logo using Canva, following styling and branding guidelines and i
 
 ## Output:
 ### Designing a Basic Mobile and Web Layout for a Health App – Case Study (FreshBites)
-#### FreshBites Logo Description
+#### Krunch Logo Description
 
-The FreshBites logo features a green circular badge, symbolizing freshness, health, and nature.
+The Krunch logo features a green circular badge, symbolizing freshness, health, and nature.
 
 At the top inside the circle, small icons of fruits (banana, strawberry, grapes, pineapple, watermelon) are arranged in an arc, representing variety and nutrition.
 
