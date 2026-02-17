@@ -198,7 +198,7 @@ User-tested design choices to improve ease of use for all digital literacy level
 
 ### Creating a Brand Logo Using Canva
 
-![Uploading KRUNCH.png…]()
+<img width="1024" height="1024" alt="KRUNCH" src="https://github.com/user-attachments/assets/40c585b7-f315-48c9-bd61-0fd73b40e6a1" />
 
 
 
